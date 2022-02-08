@@ -28,6 +28,7 @@
   <img align="center" alt="Ignacio-ex" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="Ignacio-node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Ignacio-trello" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
+  ![Snake animation](https://github.com/ignacioiriondo/ignacioiriondo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
